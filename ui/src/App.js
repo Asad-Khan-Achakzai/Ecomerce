@@ -54,7 +54,7 @@ function App() {
           >
             Home
           </Link>
-          <Typography color="text.primary">T-Shirt</Typography>
+          <Typography color="text.primary">Chair</Typography>
         </Breadcrumbs>
         <Heading variant="h5">{product?.name}</Heading>
         <Heading variant="h5">${product?.price}</Heading>
