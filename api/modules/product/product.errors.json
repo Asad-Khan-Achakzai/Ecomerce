@@ -1,0 +1,11 @@
+{
+  "1002": {
+    "msg": "Product id does not exists."
+  },
+  "1003": {
+    "msg": "Product id must be string value."
+  },
+  "1006": {
+    "msg": "error id productID."
+  }
+}
